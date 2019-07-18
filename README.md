@@ -1,3 +1,3 @@
 # GlycoNAVI TSV Dataset
 
-* Licence: CC BY 4.0
+* License: CC BY 4.0
