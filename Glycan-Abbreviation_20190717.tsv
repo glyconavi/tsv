@@ -1,204 +1,230 @@
-2'F-A type 2	http://glyconavi.org/CN/CTA86
-2'F-B type 2	http://glyconavi.org/CN/CTA68
-2'FL	http://glyconavi.org/CN/CTA33
-3'-KDNLec	http://glyconavi.org/CN/CTA46
-3'GN type1	http://glyconavi.org/CN/CTA43
-3'GN-Di-LN	http://glyconavi.org/CN/CTA90
-3'KDNLN	http://glyconavi.org/CN/CTA47
-3'S-Di-LeA	http://glyconavi.org/CN/CTA91
-3'S-Di-Lec	http://glyconavi.org/CN/CTA94
-3'S-Di-Lex	http://glyconavi.org/CN/CTA98
-3'S-Di-LN	http://glyconavi.org/CN/CTA99
-3'SL (Gc)	http://glyconavi.org/CN/CTA59
-3'SLDN	http://glyconavi.org/CN/CTA52
-3'SLeA-LeX	http://glyconavi.org/CN/CTA92
-3'SLec	http://glyconavi.org/CN/CTA48
-3'SLec (Gc)	http://glyconavi.org/CN/CTA58
-3'SLecLN	http://glyconavi.org/CN/CTA95
-3'SLex	http://glyconavi.org/CN/CTA97
-3'SLN	http://glyconavi.org/CN/CTA51
-3'SLN (Gc)	http://glyconavi.org/CN/CTA60
-3'SLN-Lec	http://glyconavi.org/CN/CTA101
-3'STri-LN	http://glyconavi.org/CN/CTA100
-6'S-Di-LN	http://glyconavi.org/CN/CTA105
-6'SL	http://glyconavi.org/CN/CTA53
-6'SLDN	http://glyconavi.org/CN/CTA55
-6'SLN	http://glyconavi.org/CN/CTA54
-6'SLN (Gc)	http://glyconavi.org/CN/CTA61
-6'STF	http://glyconavi.org/CN/CTA41
-6SLN-Lec	http://glyconavi.org/CN/CTA106
-9OAc3'Slec	http://glyconavi.org/CN/CTA56
-9OAc3'SLN	http://glyconavi.org/CN/CTA57
-A tetra L	http://glyconavi.org/CN/CTA87
-A tetra type 1	http://glyconavi.org/CN/CTA85
-A tetra type 2	http://glyconavi.org/CN/CTA88
 Ap3	http://glyconavi.org/CN/CT1
-Ap4	http://glyconavi.org/CN/CT11
-Ap5	http://glyconavi.org/CN/CT21
-Ap6	http://glyconavi.org/CN/CT32
-Ap7	http://glyconavi.org/CN/CT41
-asialo-GM1,GA1	http://glyconavi.org/CN/CT52
-asialo-GM2,GA2	http://glyconavi.org/CN/CT60
-asialoGM1	http://glyconavi.org/CN/CTA1
-asialoGM2	http://glyconavi.org/CN/CTA2
-B tetra L	http://glyconavi.org/CN/CTA69
-B tetra type 1	http://glyconavi.org/CN/CTA67
-B tetra type 2	http://glyconavi.org/CN/CTA70
-B2-tri	http://glyconavi.org/CN/CTA37
-blood-group H	http://glyconavi.org/CN/CT76
-blood-group H2	http://glyconavi.org/CN/CT2
-blood-group H3	http://glyconavi.org/CN/CT3
-CD15	http://glyconavi.org/CN/CTA19
-cisGM1	http://glyconavi.org/CN/CT4
-CT/Sda	http://glyconavi.org/CN/CTA138
-Di-LeA	http://glyconavi.org/CN/CT5
-Di-Lec	http://glyconavi.org/CN/CT6
-Di-Lex	http://glyconavi.org/CN/CTA74
-Di-LN	http://glyconavi.org/CN/CTA78
-Fuc-GD1b	http://glyconavi.org/CN/CT7
-Fuc-GM1	http://glyconavi.org/CN/CTA200
-Fucosyl GM1	http://glyconavi.org/CN/CTA203
-Ga2-Cer	http://glyconavi.org/CN/CTA204
-Gala3-type1	http://glyconavi.org/CN/CT8
-Gala3Lex	http://glyconavi.org/CN/CT9
-Gb3	http://glyconavi.org/CN/CTA236
-Gb4	http://glyconavi.org/CN/CTA117
-Gb5	http://glyconavi.org/CN/CTA7
 GD1a	http://glyconavi.org/CN/CT10
+Ap4	http://glyconavi.org/CN/CT11
 GD1a-9OAc	http://glyconavi.org/CN/CT12
-GD1a-NeuGc-NeuGc	http://glyconavi.org/CN/CTA104
-GD1b	http://glyconavi.org/CN/CTA8
 GD1c	http://glyconavi.org/CN/CT13
 GD1c-NeuAc-NeuGc	http://glyconavi.org/CN/CT14
 GD2	http://glyconavi.org/CN/CT15
-GD2-9OAc	http://glyconavi.org/CN/CTA9
 GD3	http://glyconavi.org/CN/CT16
 Gg3	http://glyconavi.org/CN/CT17
 Gg4	http://glyconavi.org/CN/CT18
+GM3(NeuGc)	http://glyconavi.org/CN/CT19
+blood-group H2	http://glyconavi.org/CN/CT2
+GP1c	http://glyconavi.org/CN/CT20
+Ap5	http://glyconavi.org/CN/CT21
+Gpent1a	http://glyconavi.org/CN/CT22
+Gpent2a	http://glyconavi.org/CN/CT23
+GQ2	http://glyconavi.org/CN/CT24
+GT1,GT1b	http://glyconavi.org/CN/CT25
+GT1b-9OAc	http://glyconavi.org/CN/CT26
+GT1c	http://glyconavi.org/CN/CT27
+GT2	http://glyconavi.org/CN/CT28
+GT3	http://glyconavi.org/CN/CT29
+blood-group H3	http://glyconavi.org/CN/CT3
+H-type1	http://glyconavi.org/CN/CT30
+H-type2	http://glyconavi.org/CN/CT31
+Ap6	http://glyconavi.org/CN/CT32
+HexLK1	http://glyconavi.org/CN/CT33
+I3aFuc,Ml2	http://glyconavi.org/CN/CT34
+iGb3	http://glyconavi.org/CN/CT35
+III6PE-Ap5	http://glyconavi.org/CN/CT36
+III6PE-Ap6	http://glyconavi.org/CN/CT37
+iLA1	http://glyconavi.org/CN/CT38
+IV2Fuc-Gg4	http://glyconavi.org/CN/CT39
+cisGM1	http://glyconavi.org/CN/CT4
+IV2Fuc-Lc4	http://glyconavi.org/CN/CT40
+Ap7	http://glyconavi.org/CN/CT41
+IV2Fuc-nLc4	http://glyconavi.org/CN/CT42
+IV2Fuc,III4Fuc-Lc4-Cer Lewis b	http://glyconavi.org/CN/CT43
+IV3(Galb1-3[Fuca1-4]GlcNAc)-nLc4	http://glyconavi.org/CN/CT44
+IV3Gala,IV2Fuc,II3NeuAc-Gg4	http://glyconavi.org/CN/CT45
+IV3Galb-Ap4	http://glyconavi.org/CN/CT46
+IV3NeuAc,II3(NeuAc)2-Gg4	http://glyconavi.org/CN/CT47
+IV3NeuAc,III3Fuc-nLc4	http://glyconavi.org/CN/CT48
+IV4Gala-nLc4	http://glyconavi.org/CN/CT49
+Di-LeA	http://glyconavi.org/CN/CT5
+IV4GalNAcb,IV3NeuAc-nLc4	http://glyconavi.org/CN/CT50
+IV6Galb-4GlcNAc-nLc6	http://glyconavi.org/CN/CT51
+asialo-GM1,GA1	http://glyconavi.org/CN/CT52
+LA1	http://glyconavi.org/CN/CT53
+Lac	http://glyconavi.org/CN/CT54
+LacNAc	http://glyconavi.org/CN/CT55
+Lc3	http://glyconavi.org/CN/CT56
+LeA	http://glyconavi.org/CN/CT57
+Lec	http://glyconavi.org/CN/CT58
+Lewis B	http://glyconavi.org/CN/CT59
+Di-Lec	http://glyconavi.org/CN/CT6
+asialo-GM2,GA2	http://glyconavi.org/CN/CT60
+Lex-LeA	http://glyconavi.org/CN/CT61
+Ley	http://glyconavi.org/CN/CT62
+Ley -Lex	http://glyconavi.org/CN/CT63
+LNT	http://glyconavi.org/CN/CT64
+M5A	http://glyconavi.org/CN/CT65
+M5C	http://glyconavi.org/CN/CT66
+McOse4	http://glyconavi.org/CN/CT67
+nLc5	http://glyconavi.org/CN/CT68
+nLc6	http://glyconavi.org/CN/CT69
+Fuc-GD1b	http://glyconavi.org/CN/CT7
+Sialyl Lewis A	http://glyconavi.org/CN/CT70
+Tri-Lex	http://glyconavi.org/CN/CT71
+Tri-LN	http://glyconavi.org/CN/CT72
+V2Fuc-Gb5	http://glyconavi.org/CN/CT73
+VI3GlcAb-Ap6	http://glyconavi.org/CN/CT74
+VII3Fuc-nLc10	http://glyconavi.org/CN/CT75
+blood-group H	http://glyconavi.org/CN/CT76
+Gala3-type1	http://glyconavi.org/CN/CT8
+Gala3Lex	http://glyconavi.org/CN/CT9
+asialoGM1	http://glyconavi.org/CN/CTA1
 GL-Y	http://glyconavi.org/CN/CTA10
+3'STri-LN	http://glyconavi.org/CN/CTA100
+3'SLN-Lec	http://glyconavi.org/CN/CTA101
+GNLN	http://glyconavi.org/CN/CTA102
+GD1a-NeuGc-NeuGc	http://glyconavi.org/CN/CTA104
+6'S-Di-LN	http://glyconavi.org/CN/CTA105
+6SLN-Lec	http://glyconavi.org/CN/CTA106
 GLA-60	http://glyconavi.org/CN/CTA108
+iGbnLc6	http://glyconavi.org/CN/CTA109
 GM1	http://glyconavi.org/CN/CTA11
+Gb4	http://glyconavi.org/CN/CTA117
 GM1a	http://glyconavi.org/CN/CTA12
+P1 tri	http://glyconavi.org/CN/CTA121
+Sda	http://glyconavi.org/CN/CTA123
+Sialyl Lewis X	http://glyconavi.org/CN/CTA124
+STn	http://glyconavi.org/CN/CTA125
+GM3 (no spacer)	http://glyconavi.org/CN/CTA13
+CT/Sda	http://glyconavi.org/CN/CTA138
+GP1b	http://glyconavi.org/CN/CTA14
+GQ1b	http://glyconavi.org/CN/CTA15
+III6PE-Ap4	http://glyconavi.org/CN/CTA150
+IV3(Galb1-3GlcNAc),III3Fuc-nLc4	http://glyconavi.org/CN/CTA151
+IV3GalNAcb,II3NeuAc-Gg4	http://glyconavi.org/CN/CTA152
+IV3GlcAb,3Galb-Ap4	http://glyconavi.org/CN/CTA153
+IV3GlcAb,3Galb,III6PE-Ap4	http://glyconavi.org/CN/CTA154
+IV3NeuAc,II3NeuAc-Gg4	http://glyconavi.org/CN/CTA155
+Lewis A	http://glyconavi.org/CN/CTA157
+Lewis C	http://glyconavi.org/CN/CTA159
+GT1a	http://glyconavi.org/CN/CTA16
+Lex	http://glyconavi.org/CN/CTA160
+LNT-2	http://glyconavi.org/CN/CTA161
+nLc8	http://glyconavi.org/CN/CTA165
+P1 penta	http://glyconavi.org/CN/CTA168
+P1 tetra	http://glyconavi.org/CN/CTA169
+II3SO3,III3SO3-Gg3	http://glyconavi.org/CN/CTA177
+SB2	http://glyconavi.org/CN/CTA177
+I3SO3-Gal	http://glyconavi.org/CN/CTA179
+SM4s	http://glyconavi.org/CN/CTA179
+V3NeuAc-Gb5	http://glyconavi.org/CN/CTA185
+VI3GlcAb,III6PE-Ap6	http://glyconavi.org/CN/CTA186
+VI6NeuAc-nLc6	http://glyconavi.org/CN/CTA187
+XG	http://glyconavi.org/CN/CTA188
+CD15	http://glyconavi.org/CN/CTA19
+Lewis X	http://glyconavi.org/CN/CTA19
+sLeX	http://glyconavi.org/CN/CTA19
+SSEA-1	http://glyconavi.org/CN/CTA19
+asialoGM2	http://glyconavi.org/CN/CTA2
+Fuc-GM1	http://glyconavi.org/CN/CTA200
+LDN	http://glyconavi.org/CN/CTA202
+Fucosyl GM1	http://glyconavi.org/CN/CTA203
+Ga2-Cer	http://glyconavi.org/CN/CTA204
 GM1b	http://glyconavi.org/CN/CTA208
 GM2	http://glyconavi.org/CN/CTA209
 GM2-1	http://glyconavi.org/CN/CTA210
 GM2a	http://glyconavi.org/CN/CTA211
 GM2b	http://glyconavi.org/CN/CTA212
 GM3	http://glyconavi.org/CN/CTA213
-GM3 (no spacer)	http://glyconavi.org/CN/CTA13
-GM3-Neu4Ac5Gc	http://glyconavi.org/CN/CTA96
-GM3(NeuGc)	http://glyconavi.org/CN/CT19
-GNLN	http://glyconavi.org/CN/CTA102
-GP1b	http://glyconavi.org/CN/CTA14
-GP1c	http://glyconavi.org/CN/CT20
-Gpent1a	http://glyconavi.org/CN/CT22
-Gpent2a	http://glyconavi.org/CN/CT23
-GQ1b	http://glyconavi.org/CN/CTA15
-GQ1ba	http://glyconavi.org/CN/CTA50
-GQ2	http://glyconavi.org/CN/CT24
-GT1,GT1b	http://glyconavi.org/CN/CT25
-GT1a	http://glyconavi.org/CN/CTA16
-GT1aa	http://glyconavi.org/CN/CTA23
-GT1b	http://glyconavi.org/CN/CTA44
-GT1b-9OAc	http://glyconavi.org/CN/CT26
-GT1c	http://glyconavi.org/CN/CT27
-GT2	http://glyconavi.org/CN/CT28
-GT3	http://glyconavi.org/CN/CT29
-H-type1	http://glyconavi.org/CN/CT30
-H-type2	http://glyconavi.org/CN/CT31
-HexLK1	http://glyconavi.org/CN/CT33
-I3aFuc,Ml2	http://glyconavi.org/CN/CT34
-I3SO3-Gal	http://glyconavi.org/CN/CTA179
-iGb3	http://glyconavi.org/CN/CT35
-iGbnLc6	http://glyconavi.org/CN/CTA109
-II3SO3-Gg3	http://glyconavi.org/CN/CTA221
-II3SO3-Lac	http://glyconavi.org/CN/CTA220
-II3SO3,III3SO3-Gg3	http://glyconavi.org/CN/CTA177
-II3SO3,IV3SO3-Gg4	http://glyconavi.org/CN/CTA38
 III3,IV2Fuc-nLc4	http://glyconavi.org/CN/CTA214
-III3Fuc-nLc4	http://glyconavi.org/CN/CTA32
-III3Fuc-nLc6	http://glyconavi.org/CN/CTA34
-III4Fuc-Lc4	http://glyconavi.org/CN/CTA62
-III6PE-Ap3	http://glyconavi.org/CN/CTA66
-III6PE-Ap4	http://glyconavi.org/CN/CTA150
-III6PE-Ap5	http://glyconavi.org/CN/CT36
-III6PE-Ap6	http://glyconavi.org/CN/CT37
-iLA1	http://glyconavi.org/CN/CT38
-IV2Fuc-Gg4	http://glyconavi.org/CN/CT39
-IV2Fuc-Lc4	http://glyconavi.org/CN/CT40
-IV2Fuc-nLc4	http://glyconavi.org/CN/CT42
-IV2Fuc,III4Fuc-Lc4-Cer Lewis b	http://glyconavi.org/CN/CT43
-IV3(Galb1-3[Fuca1-4]GlcNAc)-nLc4	http://glyconavi.org/CN/CT44
-IV3(Galb1-3GlcNAc),III3Fuc-nLc4	http://glyconavi.org/CN/CTA151
-IV3Gala,IV2Fuc,II3NeuAc-Gg4	http://glyconavi.org/CN/CT45
-IV3Galb-Ap4	http://glyconavi.org/CN/CT46
-IV3Galb,III6PE-Ap4	http://glyconavi.org/CN/CTA242
-IV3GalNAcb,II3NeuAc-Gg4	http://glyconavi.org/CN/CTA152
-IV3GlcAb,3Galb-Ap4	http://glyconavi.org/CN/CTA153
-IV3GlcAb,3Galb,III6PE-Ap4	http://glyconavi.org/CN/CTA154
-IV3NeuAc,II3(NeuAc)2-Gg4	http://glyconavi.org/CN/CT47
-IV3NeuAc,II3NeuAc-Gg4	http://glyconavi.org/CN/CTA155
-IV3NeuAc,III3Fuc-nLc4	http://glyconavi.org/CN/CT48
-IV4Gala-nLc4	http://glyconavi.org/CN/CT49
-IV4GalNAcb,IV3NeuAc-nLc4	http://glyconavi.org/CN/CT50
-IV6Galb-4GlcNAc-nLc6	http://glyconavi.org/CN/CT51
-LA1	http://glyconavi.org/CN/CT53
-Lac	http://glyconavi.org/CN/CT54
-LacNAc	http://glyconavi.org/CN/CT55
-Lc3	http://glyconavi.org/CN/CT56
-Lc6	http://glyconavi.org/CN/CTA30
-LDN	http://glyconavi.org/CN/CTA202
-LeA	http://glyconavi.org/CN/CT57
-LeALex	http://glyconavi.org/CN/CTA26
-Lec	http://glyconavi.org/CN/CT58
-Lec-LeX	http://glyconavi.org/CN/CTA27
-Lewis A	http://glyconavi.org/CN/CTA157
-Lewis B	http://glyconavi.org/CN/CT59
-Lewis C	http://glyconavi.org/CN/CTA159
-Lewis X	http://glyconavi.org/CN/CTA19
-Lewis Y	http://glyconavi.org/CN/CTA238
-Lex	http://glyconavi.org/CN/CTA160
-Lex-LeA	http://glyconavi.org/CN/CT61
-Ley	http://glyconavi.org/CN/CT62
-Ley -Lex	http://glyconavi.org/CN/CT63
-Ley-Di-Lex	http://glyconavi.org/CN/CTA28
-LK1	http://glyconavi.org/CN/CTA73
-LN	http://glyconavi.org/CN/CTA25
-LNnT	http://glyconavi.org/CN/CTA75
-LNT	http://glyconavi.org/CN/CT64
-LNT-2	http://glyconavi.org/CN/CTA161
-M5A	http://glyconavi.org/CN/CT65
-M5C	http://glyconavi.org/CN/CT66
-McOse3	http://glyconavi.org/CN/CTA65
-McOse4	http://glyconavi.org/CN/CT67
 nLc10	http://glyconavi.org/CN/CTA218
-nLc5	http://glyconavi.org/CN/CT68
-nLc6	http://glyconavi.org/CN/CT69
-nLc8	http://glyconavi.org/CN/CTA165
-P1 penta	http://glyconavi.org/CN/CTA168
-P1 tetra	http://glyconavi.org/CN/CTA169
-P1 tri	http://glyconavi.org/CN/CTA121
-SB1a	http://glyconavi.org/CN/CTA38
-SB2	http://glyconavi.org/CN/CTA177
-Sda	http://glyconavi.org/CN/CTA123
-Sialyl Lewis A	http://glyconavi.org/CN/CT70
-Sialyl Lewis X	http://glyconavi.org/CN/CTA124
-sLeX	http://glyconavi.org/CN/CTA19
-SM2	http://glyconavi.org/CN/CTA221
+II3SO3-Lac	http://glyconavi.org/CN/CTA220
 SM3s	http://glyconavi.org/CN/CTA220
-SM4s	http://glyconavi.org/CN/CTA179
-SSEA-1	http://glyconavi.org/CN/CTA19
+II3SO3-Gg3	http://glyconavi.org/CN/CTA221
+SM2	http://glyconavi.org/CN/CTA221
 SSEA-4	http://glyconavi.org/CN/CTA224
-STn	http://glyconavi.org/CN/CTA125
-Tri-Lex	http://glyconavi.org/CN/CT71
-Tri-LN	http://glyconavi.org/CN/CT72
-V2Fuc-Gb5	http://glyconavi.org/CN/CT73
-V3NeuAc-Gb5	http://glyconavi.org/CN/CTA185
-VI3GlcAb-Ap6	http://glyconavi.org/CN/CT74
-VI3GlcAb,III6PE-Ap6	http://glyconavi.org/CN/CTA186
 VI3NeuAcV3,III3Fuc2-nLc6	http://glyconavi.org/CN/CTA227
-VI3NeuGc-nLc6	http://glyconavi.org/CN/CTA93
-VI6NeuAc-nLc6	http://glyconavi.org/CN/CTA187
-VII3Fuc-nLc10	http://glyconavi.org/CN/CT75
+GT1aa	http://glyconavi.org/CN/CTA23
+Gb3	http://glyconavi.org/CN/CTA236
+Lewis Y	http://glyconavi.org/CN/CTA238
+IV3Galb,III6PE-Ap4	http://glyconavi.org/CN/CTA242
+LN	http://glyconavi.org/CN/CTA25
+LeALex	http://glyconavi.org/CN/CTA26
+Lec-LeX	http://glyconavi.org/CN/CTA27
+Ley-Di-Lex	http://glyconavi.org/CN/CTA28
 VIII3NeuAc-nLc8	http://glyconavi.org/CN/CTA29
-XG	http://glyconavi.org/CN/CTA188
+Lc6	http://glyconavi.org/CN/CTA30
+III3Fuc-nLc4	http://glyconavi.org/CN/CTA32
+2'FL	http://glyconavi.org/CN/CTA33
+III3Fuc-nLc6	http://glyconavi.org/CN/CTA34
+B2-tri	http://glyconavi.org/CN/CTA37
+II3SO3,IV3SO3-Gg4	http://glyconavi.org/CN/CTA38
+SB1a	http://glyconavi.org/CN/CTA38
+6'STF	http://glyconavi.org/CN/CTA41
+3'GN type1	http://glyconavi.org/CN/CTA43
+GT1b	http://glyconavi.org/CN/CTA44
+3'-KDNLec	http://glyconavi.org/CN/CTA46
+3'KDNLN	http://glyconavi.org/CN/CTA47
+3'SLec	http://glyconavi.org/CN/CTA48
+GQ1ba	http://glyconavi.org/CN/CTA50
+3'SLN	http://glyconavi.org/CN/CTA51
+3'SLDN	http://glyconavi.org/CN/CTA52
+6'SL	http://glyconavi.org/CN/CTA53
+6'SLN	http://glyconavi.org/CN/CTA54
+6'SLDN	http://glyconavi.org/CN/CTA55
+9OAc3'Slec	http://glyconavi.org/CN/CTA56
+9OAc3'SLN	http://glyconavi.org/CN/CTA57
+3'SLec (Gc)	http://glyconavi.org/CN/CTA58
+3'SL (Gc)	http://glyconavi.org/CN/CTA59
+3'SLN (Gc)	http://glyconavi.org/CN/CTA60
+6'SLN (Gc)	http://glyconavi.org/CN/CTA61
+III4Fuc-Lc4	http://glyconavi.org/CN/CTA62
+McOse3	http://glyconavi.org/CN/CTA65
+III6PE-Ap3	http://glyconavi.org/CN/CTA66
+B tetra type 1	http://glyconavi.org/CN/CTA67
+2'F-B type 2	http://glyconavi.org/CN/CTA68
+B tetra L	http://glyconavi.org/CN/CTA69
+Gb5	http://glyconavi.org/CN/CTA7
+B tetra type 2	http://glyconavi.org/CN/CTA70
+LK1	http://glyconavi.org/CN/CTA73
+Di-Lex	http://glyconavi.org/CN/CTA74
+LNnT	http://glyconavi.org/CN/CTA75
+Di-LN	http://glyconavi.org/CN/CTA78
+GD1b	http://glyconavi.org/CN/CTA8
+A tetra type 1	http://glyconavi.org/CN/CTA85
+2'F-A type 2	http://glyconavi.org/CN/CTA86
+A tetra L	http://glyconavi.org/CN/CTA87
+A tetra type 2	http://glyconavi.org/CN/CTA88
+GD2-9OAc	http://glyconavi.org/CN/CTA9
+3'GN-Di-LN	http://glyconavi.org/CN/CTA90
+3'S-Di-LeA	http://glyconavi.org/CN/CTA91
+3'SLeA-LeX	http://glyconavi.org/CN/CTA92
+VI3NeuGc-nLc6	http://glyconavi.org/CN/CTA93
+3'S-Di-Lec	http://glyconavi.org/CN/CTA94
+3'SLecLN	http://glyconavi.org/CN/CTA95
+GM3-Neu4Ac5Gc	http://glyconavi.org/CN/CTA96
+3'SLex	http://glyconavi.org/CN/CTA97
+3'S-Di-Lex	http://glyconavi.org/CN/CTA98
+3'S-Di-LN	http://glyconavi.org/CN/CTA99
+GD1	http://glyconavi.org/CN/CT77
+O-acetyl-GD3	http://glyconavi.org/CN/CT78
+9-O-acetylated GD1a	http://glyconavi.org/CN/CT79
+OAcGD2	http://glyconavi.org/CN/CT80
+OAcGD3	http://glyconavi.org/CN/CT81
+[acetyl-3H]O-acetyl-GD3	http://glyconavi.org/CN/CT82
+9-O-acetyl-GD3	http://glyconavi.org/CN/CT83
+9-O-acetyl-GD2	http://glyconavi.org/CN/CT84
+9-O-acetyl-GD3	http://glyconavi.org/CN/CT85
+7-O-acetyl GD3	http://glyconavi.org/CN/CT86
+Tn	http://glyconavi.org/CN/CT87
+core 1 blood group A	http://glyconavi.org/CN/CT88
+T (Galβ1,3GalNAc)	http://glyconavi.org/CN/CT89
+M8A	http://glyconavi.org/CN/CT90
+M9A	http://glyconavi.org/CN/CT91
+M7A	http://glyconavi.org/CN/CT92
+M9A'	http://glyconavi.org/CN/CT93
+M8A'	http://glyconavi.org/CN/CT94
+M5B'	http://glyconavi.org/CN/CT95
+Glc1M5B'	http://glyconavi.org/CN/CT96
+fOS	http://glyconavi.org/CN/CT97
+FOSs	http://glyconavi.org/CN/CT98
+M5A'	http://glyconavi.org/CN/CT99
+M5B'	http://glyconavi.org/CN/CT100
+blood group O	http://glyconavi.org/CN/CT101
+blood group A 	http://glyconavi.org/CN/CT102
